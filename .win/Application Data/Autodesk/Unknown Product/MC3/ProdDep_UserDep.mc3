@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PROD_DEP_USER_DEP>
+    <CommunicationTimeOut value="30000" />
+    <LogLevel value="3" />
+    <MaxLogFileSize value="51200" />
+    <MaxLogFileCount value="5" />
+    <WindowsRegistryAffinity value="1" />
+    <EnableLogging value="0" />
+    <MC3StartCount value="0" />
+    <MC3CleanCloseCount value="0" />
+    <MC3CrashCount value="0" />
+    <MC3CumulativeCalendarUptime value="0" />
+    <ASEURL value="https://ase.autodesk.com/adp/v1/analytics/upload" />
+    <WhiteListURL value="http://mpa.autodesk.com/ASE/rest/analytics/version/v2/whitelist/product/" />
+    <AdskLearnMoreURL value="http://www.autodesk.com/company/autodesk-analytics" />
+    <AdskPrivacyStatementURL value="http://www.autodesk.com/company/legal-notices-trademarks/privacy-statement" />
+</PROD_DEP_USER_DEP>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<history>
+<session>
+<command time_stamp="1675f0c476c">%-- 2018-11-29 11:38 --%</command>
+<command execution_time="31" repeat="2">lab4</command>
+<command error="true" execution_time="47">A(4,3)</command>
+<command execution_time="15">A(3,4)</command>
+<command execution_time="16">sum(prod([1:5;1:5]))</command>
+<command execution_time="31">1+2+9+16+5</command>
+<command execution_time="16">1+2+9+16+25</command>
+<command execution_time="16">1+4+9+16+25</command>
+<command execution_time="15">[1:6]</command>
+<command execution_time="16">[1:5;1:5]</command>
+<command execution_time="16">prod([1:5;1:5])</command>
+<command execution_time="16">sum(prod([1:5;1:5]))</command>
+<command execution_time="16">lab4</command>
+<command execution_time="15">[[1:5] [1:5]]</command>
+<command execution_time="31" repeat="14">lab4</command>
+<command execution_time="15">A*x</command>
+<command execution_time="16">A</command>
+<command execution_time="16">x</command>
+<command execution_time="16">Ax</command>
+<command execution_time="16">a*B</command>
+<command execution_time="16">3 == 3</command>
+<command execution_time="47">lab4</command>
+<command execution_time="16">A == A</command>
+<command execution_time="31">lab4</command>
+<command error="true" execution_time="16">A(B+C)</command>
+<command execution_time="16">A*(B+C)</command>
+<command execution_time="16">A*B+A*C</command>
+<command execution_time="16">A*(B+C) - ((A*B) + (A*C))</command>
+<command execution_time="16">lab4</command>
+<command execution_time="16">A*C-C*A</command>
+<command execution_time="15">A*C</command>
+<command execution_time="15">C*A</command>
+<command execution_time="15" repeat="3">lab4</command>
+<command error="true" execution_time="16">diag(0,1,zeros(3,3))</command>
+<command execution_time="23">diag(1,3)</command>
+<command execution_time="0">diag([1,1,1])</command>
+<command execution_time="15">diag([1,1,1])*A</command>
+<command execution_time="15">A*diag([1,1,1])</command>
+<command execution_time="15">B*diag([1,1,1])</command>
+<command execution_time="14">diag([1,1,1])*B</command>
+<command execution_time="1987" repeat="2">lab5</command>
+<command execution_time="75">plot(1,1)</command>
+<command execution_time="21">lab5</command>
+<command execution_time="62">figure(1)</command>
+<command execution_time="246">clf</command>
+<command error="true" execution_time="31">fill(p4(1,:),p4(2,:))</command>
+<command execution_time="45">fill(p4(1,:),p4(2,:),'g')</command>
+<command execution_time="15">p4</command>
+<command execution_time="13">p4(1,1)</command>
+<command execution_time="14">p4(1,:)</command>
+<command execution_time="284">axis equal, axis([-1.5 2 -0.1 2]), axis manual;</command>
+<command execution_time="34">axis equal, axis([-1.5 2 -2 2]), axis manual;</command>
+<command execution_time="26">axis equal, axis([-1 1 -2 2]), axis manual;</command>
+<command execution_time="25">axis equal, axis([-2 2 -2 2]), axis manual;</command>
+<command execution_time="96" repeat="5">lab5</command>
+<command execution_time="17">p4 + [4;3]</command>
+<command execution_time="15">p4 + [1 1 4;1 1 3]</command>
+<command execution_time="65" repeat="7">lab5</command>
+<command execution_time="28" repeat="2">lab4</command>
+<command execution_time="14">M</command>
+<command execution_time="12">m</command>
+<command execution_time="13">A</command>
+<command execution_time="30">lab4</command>
+<command execution_time="13">A</command>
+<command execution_time="15">diag([2,1/2])</command>
+<command execution_time="13">rot2</command>
+<command error="true" execution_time="14">rot2*diag([2,1/2])</command>
+<command execution_time="15">p4</command>
+<command error="true" execution_time="13">diag([2,1/2])p4</command>
+<command execution_time="14">diag([2,1/2])*p4</command>
+<command execution_time="23">s = @(x) x+5</command>
+<command execution_time="20">s</command>
+<command execution_time="14">s(2)</command>
+<command execution_time="15">s = @(x)x+5</command>
+<command error="true" execution_time="17">s 6</command>
+<command execution_time="15">s(6)</command>
+<command error="true" execution_time="17">s @(x) =x+5</command>
+<command error="true" execution_time="14">s @(x) = x+5</command>
+<command error="true" execution_time="17">s = x@ x+5</command>
+<command error="true" execution_time="8">s = (x)@ x+5</command>
+<command execution_time="15">A*B</command>
+<command execution_time="15">B*A</command>
+<command execution_time="14">Ax</command>
+<command execution_time="15">A*B</command>
+<command execution_time="17">u = [1:5]</command>
+<command execution_time="17">u.^2</command>
+<command error="true" execution_time="18">u*u</command>
+<command error="true" execution_time="17">u.u</command>
+<command execution_time="15">u.*u</command>
+<command error="true" execution_time="9">u.+u</command>
+<command execution_time="15">u+u</command>
+<command error="true" execution_time="206">pro(A,x)</command>
+<command error="true" execution_time="23">prod(A,x)</command>
+<command error="true" execution_time="201" repeat="3">pro</command>
+<command error="true" execution_time="18">prod(A,x)</command>
+<command error="true" execution_time="200">pro(A,x)</command>
+<command error="true" execution_time="189">yee</command>
+<command error="true" execution_time="199" repeat="2">average(2)</command>
+<command error="true" execution_time="203">two(7)</command>
+<command error="true" execution_time="194">average([1:5])</command>
+<command error="true" execution_time="23">average</command>
+<command execution_time="2337">openExample('matlab/FunctionInAScriptFileExample')</command>
+<command execution_time="220">FunctionInAScriptFileExample</command>
+<command error="true" execution_time="253">myIntegrand(4)</command>
+<command execution_time="27">FunctionInAScriptFileExample</command>
+<command execution_time="16">yee</command>
+<command execution_time="16">A*x</command>
+<command execution_time="14">yee</command>
+</session>
+</history>
